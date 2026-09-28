@@ -14,8 +14,8 @@
     "license": "MIT",
     "type": "sylius-plugin",
     "require": {
-        "gplanchat/durable": "self.version",
-        "gplanchat/durable-bundle": "self.version",
+        "gplanchat/durable": "^0.1.0-beta1",
+        "gplanchat/durable-bundle": "^0.1.0-beta1",
         "knplabs/knp-menu": "^3.5",
         "php": ">=8.2",
         "sylius/grid-bundle": "^1.13",
